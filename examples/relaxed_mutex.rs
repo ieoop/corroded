@@ -1,5 +1,5 @@
-use std::{thread::{self, JoinHandle}};
 use corroded_rs::sync::RelaxedMutex;
+use std::thread::{self, JoinHandle};
 
 static STATE: RelaxedMutex<u32> = RelaxedMutex::new(0);
 
